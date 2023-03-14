@@ -1,0 +1,8 @@
+@article{REPO-035,
+    author = "Hou, Changbo and Ai, Jiajun and Lin, Yun and Guan, Chenyang and Li, Jiawen and Zhu, Wenyu",
+    journal = "Future Internet",
+    number = "6",
+    title = "{Evaluation of Online Teaching Quality Based on Facial Expression Recognition}",
+    volume = "14",
+    year = "2022"
+}
